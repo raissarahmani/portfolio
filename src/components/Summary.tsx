@@ -1,4 +1,3 @@
-import React from 'react'
 import Phone from '../assets/phone.svg'
 import Mail from '../assets/mail.svg'
 import Linkedin from '../assets/linkedin.svg'

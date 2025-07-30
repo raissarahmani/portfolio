@@ -1,4 +1,3 @@
-import React from 'react'
 import Home from '../assets/home.svg'
 import Contact from '../assets/contact.svg'
 

@@ -1,4 +1,3 @@
-import React from 'react'
 import ProjectCard from './ProjectCard'
 import Right from '../assets/right.svg'
 import Left from '../assets/left.svg'
